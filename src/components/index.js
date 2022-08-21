@@ -10,3 +10,6 @@ export {default as CreateChannel} from './CreateChannel';
 export {default as EditChannel} from './EditChannel';
 export {default as UserList} from './UserList';
 export {default as ResultDropList} from './ResultDropList';
+export {default as VideoCall} from './VideoCall';
+export {default as OtherUsers} from './OtherUsers';
+export {default as CallNotification} from './CallNotification';

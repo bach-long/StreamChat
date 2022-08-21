@@ -63,7 +63,7 @@ const ChannelListContent = ({isCreating, setCreateType, setIsCreating, setIsEdit
         window.location.reload();
     }
     const filters = { members: { $in: [client.userID] } };
-    //console.log(client.userID)
+    //console.log(client)
   return (
     <>
         <Sidebar logout={logout}/>

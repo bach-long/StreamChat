@@ -683,6 +683,11 @@ body {
   display: flex;
   flex-direction: column;
   height: 100%;
+  overflow: auto;
+}
+
+.vid {
+  z-index: -1;
 }
 
 .user-list__header {
