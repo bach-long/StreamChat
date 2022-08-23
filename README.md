@@ -1,5 +1,7 @@
+# App demo
+* [The demo of this app](https://stream-chatter.netlify.app/)
 # StreamChat
-[The demo of this app](https://stream-chatter.netlify.app/)
+
 This is my personal project. StreamChat is a normal chat app that contains almost features that you can see in facebook messengers or slack ..... I've worked on this project since the announcement of the scholarship.Besides, I started it with learning purpose.
 
 # Feature 
