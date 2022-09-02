@@ -6,6 +6,7 @@ This is my personal project. StreamChat is a normal chat app that contains almos
 
 # Feature 
 * # **Signin/Signup**: Authentication and return token
+![image](https://user-images.githubusercontent.com/72023201/186043793-8d06d867-064e-4b49-a45d-2e969b22eddf.png)
 ![image](https://user-images.githubusercontent.com/72023201/186043817-3c585ac0-e03d-4dc9-9343-a06c2d18d94b.png)
 * # **Channels/Thread**: messages list, creating new channel, .....
 As you can see here, We can create new channel by fill in its name and adding members to it. You also can edit your channel as long as you are the owner
